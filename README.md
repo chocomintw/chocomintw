@@ -1,6 +1,6 @@
-- 👋 hey, i'm a devlopper, from south of france (and korea)
-- 👀 i love programming, as well as doing sports
-- 👨‍💻 learning everything, mostly focus on react right now
+- 👋 Hey I'm a devlopper, from south of France
+- 👀 I love programming, it's obvious
+- 👨‍💻 I mostly spend my time learning, mostly focus on react right now
 
 <!---
 chocomintko/chocomintko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
