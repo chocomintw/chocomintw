@@ -1,9 +1,10 @@
-- 👋 Hey I'm a devlopper, from south of France
-- 👀 I love programming, it's obvious
-- 👨‍💻 I mostly spend my time learning, mostly focus on react right now
+Me on my way to become a good back-end devloper
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/543124309795667968)](https://discord.com/users/543124309795667968)
-
+<p align="center">
+   <a href="https://discord.com/users/543124309795667968" target="_blank" rel="nofollow">
+      <img src="https://lanyard-profile-readme.vercel.app/api/543124309795667968" alt="Discord Presence" align="center">
+   </a>
+</p>
 
 <!---
 chocomintko/chocomintko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
