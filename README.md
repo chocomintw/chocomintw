@@ -37,8 +37,6 @@ I'm a developer whose main goal is to create useful solutions for my needs (and 
   </a>
 </p>
 
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,100:0f172a&height=100&section=footer" 
        width="100%" />
