@@ -1,24 +1,11 @@
-<div align="center">
-  <!-- Live Discord Presence -->
-  <a href="https://discord.com/users/928745831102836756" target="_blank" rel="nofollow">
-    <img src="https://lanyard-profile-readme.vercel.app/api/928745831102836756" alt="Discord Presence" />
-  </a>
-</div>
+I'm a developer whose main goal is to create useful solutions for my needs (and perhaps others). Most of my time goes into having headaches and figuring out how to center divs. I also create mods for Grand Theft Auto V as a hobby!
 
-<br />
+- Mostly working with **TypeScript** and **C#** (React / Next.js on the frontend, Node / .NET on the backend)
+- I have a huge passion about capybaras. I know every single fun fact about them and I am not joking. I have yet to see one in real life however.
 
 ---
 
-### 🌿 About Me
-
-- 💻 **Focus**: Building full-stack web applications and robust C# software.
-- 🚀 **Passion**: Clean architecture, responsive UI/UX, and performant backends.
-- 🛠️ **Current Stack**: TypeScript, React, Next.js, and the .NET / C# ecosystem.
-- 🌱 **Learning & Exploring**: Scalable cloud architectures, new tooling, and creative side projects.
-
----
-
-### 🛠️ Languages & Frameworks
+### Languages & Frameworks
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -26,7 +13,7 @@
   </a>
 </p>
 
-### 🌐 Frontend & Web
+### Frontend & Web
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -34,7 +21,7 @@
   </a>
 </p>
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -42,17 +29,17 @@
   </a>
 </p>
 
-### 🧰 Tools & Environments
+### Tools & Environments
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman&theme=dark" alt="Tools & Environments" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,postman&theme=dark" alt="Tools & Environments" />
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <!-- Footer Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,100:0f172a&height=100&section=footer" width="100%" alt="chocomintw footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,100:0f172a&height=100&section=footer" 
+       width="100%" />
 </div>
