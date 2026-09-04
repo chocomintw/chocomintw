@@ -3,8 +3,6 @@ I'm a developer whose main goal is to create useful solutions for my needs (and 
 - Mostly working with **TypeScript** and **C#** (React / Next.js on the frontend, Node / .NET on the backend)
 - I have a huge passion about capybaras. I know every single fun fact about them and I am not joking. I have yet to see one in real life however.
 
----
-
 ### Languages & Frameworks
 
 <p align="left">
